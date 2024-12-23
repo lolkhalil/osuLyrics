@@ -1,4 +1,4 @@
-# osuLyrics - Game by kha - Inspired by shaz
+# osuLyrics - Game by kha - Inspired by shaz - 01/07/24
 # used MusicBrainz and OVH API to get Duration and Lyrics of the songs
 # TODO: enable setting to play song on spotify using start spotify:track
 
